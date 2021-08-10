@@ -5,13 +5,14 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "xxxxx-xxxxx-xxxxx-xxxxx-xxxxx-",
-    authDomain: "xxx-xxxxx",
-    databaseURL: "https://xxx-xxxx-xxxx.firebaseio.com",
-    projectId: "fir-demo-1234",
-    storageBucket: "fir-demo-10290.appspot.com",
-    messagingSenderId: "123456789",
-    appId: "x:1920292929:xxxx:xxxxxxxxxx"
+    apiKey: "AIzaSyDWPg-zQusS4X96fgjlt_XhR3-PMKHPLyU",
+    authDomain: "noteapp-88a24.firebaseapp.com",
+    databaseURL: "https://noteapp-88a24-default-rtdb.firebaseio.com",
+    projectId: "noteapp-88a24",
+    storageBucket: "noteapp-88a24.appspot.com",
+    messagingSenderId: "690601018830",
+    appId: "1:690601018830:web:7229b9eadaaf3301f9179f",
+    measurementId: "G-HMHGW0M1TS"
   }
 };
 
